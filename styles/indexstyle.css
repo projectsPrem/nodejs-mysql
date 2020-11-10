@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+    background-color: #f5f5f5;
+   margin-bottom: 240px;
+}
+
+.card{
+    border-radius: 6px;
+    margin: 12px 0px;
+    padding: 8px 42px !important;
+    /* height: 80px; */
+    box-shadow: 1px 3px 8px 1px #cfcfcf;
+}
+h1{
+    text-align: center;
+    margin: 100px 0px;
+}
+
+h6{
+    font-size: 8px;
+}
+p{
+    font-size: 12px !important;
+}
+
+#centerbtn{
+    text-align: center;
+}

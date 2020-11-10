@@ -1,0 +1,16 @@
+{
+  "name": "commentsection",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prem kumar",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "node": "^15.0.1",
+    "nodemon": "^2.0.6"
+  }
+}
